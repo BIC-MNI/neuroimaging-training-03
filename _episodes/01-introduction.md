@@ -1,18 +1,58 @@
 ---
 title: "Introduction"
-teaching: 5
+teaching: 10
 exercises: 0
 questions:
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+- "Why look at your data?"
+- "When to look at your data?"
+- "What to look at in your data?"
+- "How to look at your data?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand the importance of visualization"
+- "Knows why, when, what and how to look at your data"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Garbage in, Garbage Out"
+- "After major processing steps, especially spatial manipulation"
+- "Motion artefacts, signal dropout, distortion, more motion" 
+- "Open data and notice any abnormal patterns."
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean pharetra. Purus in mollis nunc sed id. Malesuada pellentesque elit eget gravida cum sociis natoque. Ornare quam viverra orci sagittis eu volutpat odio. Aliquam vestibulum morbi blandit cursus. Facilisi nullam vehicula ipsum a arcu cursus vitae. Semper quis lectus nulla at volutpat. Odio pellentesque diam volutpat commodo sed egestas egestas. Eget mauris pharetra et ultrices neque. Cras tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Elit eget gravida cum sociis natoque penatibus et magnis dis. Eu non diam phasellus vestibulum lorem sed. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Nunc mi ipsum faucibus vitae aliquet nec. Dui ut ornare lectus sit. Urna condimentum mattis pellentesque id nibh tortor id aliquet. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum. Est sit amet facilisis magna etiam tempor orci eu lobortis.
 
-Urna id volutpat lacus laoreet non curabitur gravida. Neque aliquam vestibulum morbi blandit cursus risus at. Mattis aliquam faucibus purus in massa. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eu non diam phasellus vestibulum lorem sed risus ultricies tristique. Eu scelerisque felis imperdiet proin fermentum leo vel orci. Integer malesuada nunc vel risus. In eu mi bibendum neque egestas congue quisque. Vitae purus faucibus ornare suspendisse. Condimentum lacinia quis vel eros donec ac odio tempor.
+# Data 
 
-Quam lacus suspendisse faucibus interdum posuere. Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Velit ut tortor pretium viverra suspendisse. Felis donec et odio pellentesque diam volutpat commodo sed. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Massa tempor nec feugiat nisl pretium fusce id velit. Nec dui nunc mattis enim ut tellus elementum sagittis. At auctor urna nunc id cursus metus aliquam eleifend mi. Augue neque gravida in fermentum. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum a.
+
+## Why? 
+
+### Because of GIGO
+> GIGO: Garbage in garbage out. 
+> - George Fueschsel, IBM Programmer and Instructor
+{: .callout}
+
+Neuroimaging is about processing data and if at any time the data is bad all you analysis can be meaningless misguided at best worst collegiate a wrong conclusion that should not have been made in the first place
+it is one of the most important step before any kind of data analysis but it is also one of the most commonly ignored step
+this applies across all of the neuroimaging disciplines from structural neuroimaging analysis to functional neuroimaging analysis to Connectivity neuroimaging analysis etc. etc. no disciplines on the neuroimaging does not require data quality check it is fundamental
+
+> Fig 
+> Source: "Echo time dependence of BOLD fMRI studies of the piriform cortex" https://www.ncbi.nlm.nih.gov/pubmed/19936572
+> Just imagine what you can do with awesome oribofrontal cortex fMRI data like these when... there are massive holes in your data. I am sure the group comparisons would look nice.  /s
+{: .challenge}
+
+### Because it will help you make figures.
+
+Ever tried to make figures but not sure how to start? Familiarity with these tools will help you get nice figures, QUICKER, EASIER, and less painful.
+ 
+### Because it will help with your analyses regardless of modalities. 
+
+* functional MRI: task or resting state 
+* Structural MRI: T1, T2 etc.
+* Diffusion
+* PET: 
+
+
+##  
+
+###  
+
+{: . } 
+
 {% include links.md %}
 

@@ -1,9 +1,9 @@
 ---
-title: "Neuroimaging 3"
+title: "Why do I have to deal with MINC file?"
 teaching: 10
 exercises: 0
 questions:
-- "Lorem ipsum dolor sit amet"
+- "How to even open MINC files?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

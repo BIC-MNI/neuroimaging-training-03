@@ -1,9 +1,9 @@
 ---
-title: "Neuroimaging 2"
+title: "DICOM, oldest format"
 teaching: 10
 exercises: 0
 questions:
-- "Consectetur adipiscing elit"
+- "Lorem ipsum dolor sit amet"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
