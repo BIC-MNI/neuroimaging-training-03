@@ -27,9 +27,7 @@ keypoints:
 > - George Fueschsel, IBM Programmer and Instructor
 {: .callout}
 
-Neuroimaging is about processing data and if at any time the data is bad all you analysis can be meaningless misguided at best worst collegiate a wrong conclusion that should not have been made in the first place
-it is one of the most important step before any kind of data analysis but it is also one of the most commonly ignored step
-this applies across all of the neuroimaging disciplines from structural neuroimaging analysis to functional neuroimaging analysis to Connectivity neuroimaging analysis etc. etc. no disciplines on the neuroimaging does not require data quality check it is fundamental
+Neuroimaging is about processing data and if at any time the data is bad all you analysis can be meaningless misguided at best worst collegiate a wrong conclusion that should not have been made in the first place. It is one of the most important step before any kind of data analysis but it is also one of the most commonly ignored step this applies across all of the neuroimaging disciplines from structural neuroimaging analysis to functional neuroimaging analysis to Connectivity neuroimaging analysis etc. etc. no disciplines on the neuroimaging does not require data quality check it is fundamental
 
 > Fig 
 > Source: "Echo time dependence of BOLD fMRI studies of the piriform cortex" https://www.ncbi.nlm.nih.gov/pubmed/19936572
@@ -46,11 +44,7 @@ Ever tried to make figures but not sure how to start? Familiarity with these too
 * Structural MRI: T1, T2 etc.
 * Diffusion
 * PET: 
-
-
-##  
-
-###  
+  
 
 {: . } 
 
