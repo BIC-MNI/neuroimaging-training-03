@@ -7,13 +7,13 @@ In this lesson, we will demonstrate a series of potentially useful visualization
 
 The list of tools we will attempt to cover are:
 
-* SPM visualizer (Cross-platforms)
-* xjView toolbox for SPM 
-* FSLeye visualizer (Linux Only)
-* MRICron, MRICronGL (Cross-platforms)
-* ITKSnap (Linux)
+* SPM visualizer (cross-platforms)
+* xjView toolbox for SPM (cross-platforms)
+* FSLeye visualizer (Linux/Mac Only. Windows with Linux VM)
+* MRICron, MRICronGL (cross-platforms)
+* ITKSnap (corss-platform)
 * MNI Display (Linux)
-* 3D Slicer (Cross-platforms)
+* 3D Slicer (cross-platforms)
 
 
 <!-- this is an html comment -->
@@ -21,12 +21,17 @@ The list of tools we will attempt to cover are:
 {% comment %} This is a comment in Liquid {% endcomment %}
 
 > ## Prerequisites
->
-> Ability to navigate computer folders in Windows/Mac/Linux. 
+
+> Ability to navigate computer folders in Windows/Mac/Linux.
+
 > Open terminals and invoke commands. 
+
 > Concept of 3D volume file as a 3D matrix. 
+
 > Optinal: MatLab (for SPM, xjView related visualization)
+
 > Optinal: FSL (for fsleye) 
+
 {: .prereq}
 
 
