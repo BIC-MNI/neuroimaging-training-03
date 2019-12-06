@@ -12,12 +12,14 @@ keypoints:
 
 3D Matrix
 
-## DICOM
+## DICOM : https://www.dicomlibrary.com/dicom/
 
-## BIDS
+## BIDS : https://bids.neuroimaging.io/
 
-## NII, HDR/IMG
+## NIfTI (NII, HDR/IMG) : https://nifti.nimh.nih.gov/
 
-## MINC, MNC
+## Analyze (HDR/IMG) : 
+
+## MINC, MNC : https://en.wikibooks.org/wiki/MINC/SoftwareDevelopment/MINC2.0_File_Format_Reference
 
 ## MGH / MGZ / NRRD / 
