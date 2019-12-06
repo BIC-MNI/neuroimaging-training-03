@@ -15,6 +15,9 @@ keypoints:
 ---
 T/F/Z statistical maps are represented as a special version of NII/MINC format files. Instead of having voxels representing individual MRI signal intensities, the value of each voxel would represent the statical value from the test. 
 
+> Statistical maps are just spatial version of 3D maps containing statistical values. 
+{: .callout}
+
 These are best overlaid on the anatomical maps for spatial interpretation.
 
 ## Interpretation

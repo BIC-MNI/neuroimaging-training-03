@@ -35,8 +35,8 @@ Namely,[Bidsify](https://github.com/spinoza-rec/bidsify), [BIDSKit](https://gith
 There currently do not exist any super polished commercial solution to convert to BIDS. 
 
 
-## Important Note
-In the end, BIDS datasets are still grounded in basic format of NII, but organized in specific folder structures with the proper meta information stored and organized. In short, you still need software to open NII format. 
+> In the end, BIDS datasets are still grounded in basic format of NII, but organized in specific folder structures with the proper meta information stored and organized. In short, you still need software to open NII format.
+{: .callout} 
 
 
 {% include links.md %}

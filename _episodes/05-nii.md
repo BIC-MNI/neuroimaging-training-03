@@ -1,5 +1,5 @@
 ---
-title: "Nifti Format"
+title: "Neuroimaging Informatics Technology Initiative (NIFTI) Format"
 teaching: 10
 exercises: 0
 
@@ -65,7 +65,9 @@ See relevant chapter at [SPM12 menu](https://www.fil.ion.ucl.ac.uk/spm/doc/spm12
 
 ### FSL Eye: 
 * One of its most powerful feature is the ability to actually visualize 4D data as a interactive 3D movie sets of images. 
-* It also has one of the most polish software to control overlay/layers (probably one of the best, short of Slicer3D)
+
+.callout It also has one of the most polish software to control overlay/layers (probably one of the best, short of Slicer3D)
+
 * Detailed instruction at [FSL tutorial on FSLEye](https://fsl.fmrib.ox.ac.uk/fslcourse/lectures/practicals/intro1/index.html). ![](https://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox7/TBSS_stats.png)
 
 
