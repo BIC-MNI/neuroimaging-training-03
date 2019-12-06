@@ -69,7 +69,9 @@ This typically involves a DICOMHeader inspector.
 A few good examples are:
 
 * DCMTK, DICOM dump utility, as part of the well known offis DICOM toolkit available across all platforms <https://support.dcmtk.org/docs/dcmdump.html>
-* DICOMBrowser on Windows: <https://www.nitrc.org/projects/dicom_browser/>* 
+* DICOMBrowser on Windows: <https://www.nitrc.org/projects/dicom_browser/>
+* To import DICOM, follow this instruction: 
+![](../fig/3DSlicerDICOMImport.png))
 
 
 {% include links.md %}
