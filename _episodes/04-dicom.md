@@ -31,10 +31,10 @@ DICOM file format was initially designed to facilitate medical diagnostic imagin
 
 Typically work flow involving DICOM files invovle two streams: 
 
-1. You can visualize and inspect the DICOM files by directly open and accessing it.
+1. You can **visualize** and inspect the DICOM files by directly open and accessing it.
 This is most useful to either obtain tag related information (which are commonly shared with other slices from the same acquisition series)
 
-1. You can convert (usually a stack of) DICOMs to 3D or 4D volumetric data format to other more native neuroimaging format for subsequent analyses. In this stream, DICOM is merely a transitory format. 
+1. You can **convert** (usually a stack of) DICOMs to 3D or 4D volumetric data format to other more native neuroimaging format for subsequent analyses. In this stream, DICOM is merely a transitory format. 
 
 
 ### Visualization of DICOM format

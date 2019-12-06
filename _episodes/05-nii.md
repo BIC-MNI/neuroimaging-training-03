@@ -2,17 +2,23 @@
 title: "Nifti Format"
 teaching: 10
 exercises: 0
+
 questions:
-- "Consectetur adipiscing elit"
+- "What is NIFTI format?"
+- "How to identify NFITI format?"
+
 objectives:
 - "First learning objective. (FIXME)"
+
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 ## Format / Extension 
 
-* Typically assocated with .nii, .hdr/.img pair
+* Typically, associated with .nii OR .hdr/.img pair
+   * NII format has the header bits already incorporated
+   * .HDR is really the header file. 
 * Probably one of the most popular format
 
 You can read more about the technical details of [Nifti-1](https://brainder.org/2012/09/23/the-nifti-file-format/) format and its contrast with [NIFI-2](https://brainder.org/2015/04/03/the-nifti-2-file-format/). 
