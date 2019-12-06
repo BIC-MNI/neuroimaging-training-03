@@ -20,17 +20,13 @@ The list of tools we will attempt to cover are:
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-> ## Prerequisites
+## Prerequisites
 
-> Ability to navigate computer folders in Windows/Mac/Linux.
-
-> Open terminals and invoke commands. 
-
-> Concept of 3D volume file as a 3D matrix. 
-
-> Optinal: MatLab (for SPM, xjView related visualization)
-
-> Optinal: FSL (for fsleye) 
+> * Ability to navigate computer folders in Windows/Mac/Linux.
+> * Open terminals and invoke commands. 
+> * Concept of 3D volume file as a 3D matrix. 
+> * Optinal: MatLab (for SPM, xjView related visualization).
+> * Optinal: FSL (for fsleye).
 
 {: .prereq}
 
