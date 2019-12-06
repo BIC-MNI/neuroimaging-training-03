@@ -43,6 +43,11 @@ There are many effective and simple tools to directly visualize DICOM data, most
 
 Example apps are: [RadiAnt(Windows only)](https://www.radiantviewer.com/), [Imaios web app](https://www.imaios.com/en/Imaios-Dicom-Viewer), [MicroDICOM](http://www.microdicom.com/). 
 
+3DSlicer 4 as a very nice GUI interface for visualize DICOM as well. 
+Here is a quick illustration of the steps to import DICOM files into stacks of volumes in 3D slicer. 
+
+
+
 ### Conversion of DICOM format 
 
 To Nii Format: 

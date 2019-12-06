@@ -2,12 +2,15 @@
 title: "Brain Imaging Data Structure (BIDS)"
 teaching: 10
 exercises: 0
+
 questions:
 - "What is BIDS?"
 - "Why BIDS exist?"
 - "How to use BIDS format?"
+
 objectives:
 - "Understand "
+
 keypoints:
 - ""
 ---
@@ -30,6 +33,10 @@ https://github.com/rordenlab/dcm2niix
 Namely,[Bidsify](https://github.com/spinoza-rec/bidsify), [BIDSKit](https://github.com/jmtyszka/bidskit), [DAC2BIDS](https://github.com/dangom/dac2bids), [DCM2BIDS](https://github.com/cbedetti/Dcm2Bids), [HEUDICONV](https://github.com/nipy/heudiconv)
 
 There currently do not exist any super polished commercial solution to convert to BIDS. 
+
+
+## Important Note
+In the end, BIDS datasets are still grounded in basic format of NII, but organized in specific folder structures with the proper meta information stored and organized. In short, you still need software to open NII format. 
 
 
 {% include links.md %}
