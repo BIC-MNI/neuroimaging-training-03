@@ -5,10 +5,9 @@ title: "Reference"
 
 ## Glossary
 
-1. Enim eu turpis egestas pretium aenean pharetra.
+1. Grayscale:
 
-2. Purus in mollis nunc sed id. Malesuada pellentesque eget gravida cum sociis natoque.
+2. Intensity Histogram
 
-3. Ornare quam viverra orci sagittis eu volutpat odio.
 
 {% include links.md %}

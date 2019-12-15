@@ -1,5 +1,5 @@
 ---
-title: "Neuroimaging 7"
+title: "Staticial Maps"
 teaching: 10
 exercises: 0
 questions:

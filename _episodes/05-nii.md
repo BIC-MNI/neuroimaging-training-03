@@ -1,9 +1,9 @@
 ---
-title: "Neuroimaging 5"
+title: "Nifti Files"
 teaching: 10
 exercises: 0
 questions:
-- "Lorem ipsum dolor sit amet"
+- "Consectetur adipiscing elit"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
