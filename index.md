@@ -3,32 +3,32 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-In this lesson, we will demonstrate a series of potentially useful visualization tools to help you see the neuroimaging data and make the manual quality control process a lot easier. 
+In this lesson, we will demonstrate a series of potentially useful tools to visualize neuroimaging data and make the manual quality control process a lot easier. 
 
 The list of tools we will attempt to cover are:
 
-* SPM visualizer (cross-platforms)
-* xjView toolbox for SPM (cross-platforms)
+* SPM visualizer (cross-platform)
+* xjView toolbox for SPM (cross-platform)
 * FSLeye visualizer (Linux/Mac Only. Windows with Linux VM)
-* MRICron, MRICronGL (cross-platforms)
-* ITKSnap (corss-platform)
+* MRICron, MRICronGL (cross-platform)
+* ITKSnap (cross-platform)
 * MNI Display (Linux)
-* 3D Slicer (cross-platforms)
+* 3D Slicer (cross-platform)
 
 
 <!-- this is an html comment -->
 
-{% comment %} This is a comment in Liquid {% endcomment %}
+<!-- {% comment %} This is a comment in Liquid {% endcomment %} -->
 
 ## Prerequisites
 
 > * Ability to navigate computer folders in Windows/Mac/Linux.
 > * Open terminals and invoke commands. 
 > * Concept of 3D volume file as a 3D matrix. 
-> * Optinal: MatLab (for SPM, xjView related visualization).
-> * Optinal: FSL (for fsleye).
+> * Optional: MatLab (for SPM, xjView related visualization).
+> * Optional: FSL (for fsleye).
 
-{: .prereq}
+<!-- {: .prereq} -->
 
 
-{% include links.md %}
+<!-- {% include links.md %} -->
